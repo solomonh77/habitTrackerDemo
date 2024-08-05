@@ -1,0 +1,30 @@
+body {
+
+    background-image: linear-gradient(to left, #F7DCB9, #B5C18E, #914F1E);
+
+}
+
+h1 {
+    color: #000;
+    font-size: 70px;
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 10px;
+    text-decoration: bold;
+}
+
+body {
+    text-align: center;
+    font-size: 20px;
+}
+
+.hello {
+    font-size: 25px;
+}
+
+.star {
+    font-size: 14px;
+    margin-bottom: 0px;
+    padding: 0px;
+
+}
